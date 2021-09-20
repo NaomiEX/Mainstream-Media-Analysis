@@ -23,6 +23,12 @@ The dataset used for this project was extracted from public Facebook posts of so
 * user interaction (comments, shares)
 * date/time posted
 
+## Model
+I experimented with models of various complexity and found that I achieved the best results (most generalize-able classifier) with one of the simplest models. Its architecture is as follows:
+* A single convolutional layer
+* A single max pooling layer
+* Two dense layers
+
 ## Results
 ### Comparing love and angry reactions for posts mentioning Donald Trump to those mentioning Barack Obama
 <img src="./Images/reaction_comparison.JPG" width="450" />
