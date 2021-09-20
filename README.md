@@ -25,11 +25,17 @@ The dataset used for this project was extracted from public Facebook posts of so
 
 ## Results
 ### Comparing love and angry reactions for posts mentioning Donald Trump to those mentioning Barack Obama
-### Frequency of posts mentioning Obama over time (2012-2016)
-### User engagement comparison for different types of posts
+<img src="./Images/reaction_comparison.JPG" width="450" />
 
+Insights: Although Trump seems to elicit more positive reactions compared to Obama, he also incites more anger and hate. This is a reflection of the divisive nature of Trump's at-the-time candidacy and eventual presidency, i.e. the majority of people have a strong opinion in regards to Trump. The fact that he has 40% more angry reactions than love reactions suggests that a larger userbase have a negative opinion of Trump (at least the people who interact with and follow major news sources on FB). 
+
+On the other hand, Obama is nowhere near as divisive a figure as Trump, i.e. a sizeable number of people have a neutral or even no opinion of him. Unlike Trump, he has 40% more love reactions than  hate reactions suggesting that a larger userbase have a positive opinion of Obama (at least the people who interact with and follow major news sources on FB).
+### Frequency of posts mentioning Obama over time (2012-2016)
+<img src="./Images/reaction_frequency_over_time.JPG" width="800" />
+
+### User engagement comparison for different types of posts
+<img src="./Images/user_interaction.png" width="500"/>
 
 ## Technologies used
 * shell scripting (using Cygwin)
 * R
-
