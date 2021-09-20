@@ -2,12 +2,12 @@ Mainstream Media Analysis
 =====
 
 ## Table of contents
-* [Introduction](#introduction)
+* [About](#about-the-project)
 * [Dataset](#dataset)
 * [Results](#results)
 * [Technologies Used](#technologies-used)
 
-## Introduction
+## About the project
 Big data processing and analaysis of mainstream media posts from 15 top sources (BBC, CNN, Fox News) extracted from Facebook (2012-2016) with a focus on scrutinizing user reactions (like, love, care, wow, haha, sad, angry) to media posts relating to past presidents and at-the-time presidential candidates of the United States using shell scripting, then examine the frequency of user reactions to these posts over time in R.
 
 Visualization and analysis of user engagement on different types of facebook posts (links, photos, status updates, videos, etc.) from ABC news using R.
