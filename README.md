@@ -13,7 +13,15 @@ Big data processing and analaysis of mainstream media posts from 15 top sources 
 Visualization and analysis of user engagement on different types of facebook posts (links, photos, status updates, videos, etc.) from ABC news using R.
 
 ## Dataset
-The dataset used for this project was extracted from public Facebook posts of some of the top mainstream media sources and consists of millions of posts.
+The dataset used for this project was extracted from public Facebook posts of some of the top mainstream media sources and consists of ~534,000 posts ranging from 2012 to 2016. Metadata available for each post includes:
+* post id
+* message
+* description
+* caption
+* post type
+* reactions (love count, wow count, haha count, sad count, thankful count, angry count)
+* user interaction (comments, shares)
+* date/time posted
 
 ## Results
 ### Comparing love and angry reactions for posts mentioning Donald Trump to those mentioning Barack Obama
